@@ -44,7 +44,7 @@ No build tools or server required—pure HTML/CSS/JS. You only need a modern web
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/<YOUR_GITHUB_USERNAME>/ResumeEditor.git
-   cd interactive-resume
+   cd ResumeEditor
    ```
 
 2. **Installing dependencies**
