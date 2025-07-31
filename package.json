@@ -1,0 +1,25 @@
+{
+  "name": "front-end-entrance-exam",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "eslint": "^9.32.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.3.0",
+    "postcss": "^8.5.6",
+    "postcss-discard-comments": "^7.0.4",
+    "prettier": "^3.6.2",
+    "vite": "^5.2.0"
+  }
+}
