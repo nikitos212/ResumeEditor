@@ -47,10 +47,13 @@ No build tools or server required—pure HTML/CSS/JS. You only need a modern web
    cd interactive-resume
 
 2.  **Installing dependencies**
+  ```bash
    npm install
 
 3.  **Project launch**
+  ```bash
    npm run dev
 
 4.  **For assembly**
+  ```bash
    npm run build
